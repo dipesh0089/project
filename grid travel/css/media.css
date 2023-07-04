@@ -1,0 +1,222 @@
+
+
+ @media(max-width:500px)
+ {
+     .headerarea .header-top{display: none;} 
+ }
+
+
+  @media(max-width:500px)
+ {
+     .headerarea .header-buttom{display: none;}
+     .headerarea .header-buttom-baars{opacity: 1;}
+     .header{padding: 200px 0;}
+
+ }
+
+
+   /* second start */
+
+   @media(max-width: 500px)
+   {
+       .second{grid-template-rows: 1fr;}
+   }
+
+   @media(max-width: 500px)
+   {
+       .second .calculate{grid-template-columns: 1fr;}
+   }
+
+
+     /* goveyoud start */
+
+
+     @media(max-width: 500px)
+     {
+         .go{grid-template-columns: 1fr;}
+          .airline:hover .airline1
+         {
+             top: 450px;
+         }
+     .textinfo{top: 500px;left: 120px;}
+
+
+     /* top destination start */
+
+
+     @media(max-width: 500px)
+        {
+        .topdestinationarea{grid-template-columns: 1fr;} 
+        }
+
+
+        @media(max-width: 500px)
+        {
+        .topdestinationarea .destination3{grid-template-columns: 1fr;} 
+        }
+
+         @media(max-width: 500px)
+        {
+            .uptp50 .sometext{top: 0px;left: 70px;}
+            .sometext .destinationscontentinner{font-size: 12px;}  
+        }
+
+
+        @media(max-width: 500px)
+        {
+          .china .chaf{top: 170px; left: 160px;}
+          .darjiling .darj{top: 170px; left: 145px;}
+          .malaysia .malya{top: 250px; left: 145px;}
+          .gangtok .gangt{top: 250px; left: 145px;}
+          .thailand .thai{top: 170px; left: 145px;}
+          .australia .austr{top: 170px; left: 145px;}
+          .london .lon{top: 280px; left: 160px;}
+          .usa .uss{top: 280px; left: 180px;}  
+        }
+
+
+         @media(max-width: 500px)
+        {
+        .firstcol{grid-template-rows: 1fr;}
+        .secondcol{grid-template-rows: 1fr;}
+        /* .thirdcol{grid-template-rows: 1fr;}  */
+        }
+
+
+        /* explore start */
+
+
+        @media(max-width: 500px)
+        {
+            .explorearea{grid-template-rows: 1fr;}
+        }
+
+        @media(max-width: 500px)
+        {
+            .explorearea .hoteltype{grid-template-columns: 1fr;}
+            
+        }
+
+
+
+/* specialsection start */
+
+
+
+        @media(max-width: 500px)
+        {
+            .sntsection{grid-template-columns: 1fr;}
+            
+        }
+
+
+        @media(max-width: 500px)
+        {
+            .spcontent .newletteroffertext{height: 100%; width: 100%;}
+            .spcontent .specialoffertext{height: 100%; width: 100%;}
+            
+        }
+
+
+        /* Our best promotional tours start */
+
+
+        
+        @media(max-width: 500px)
+        {
+            .promotionalsection{grid-template-rows: 1fr;}
+        }
+
+        @media(max-width: 500px)
+        {
+            .promotionalsection .promotehotel{grid-template-columns: 1fr;}
+        
+        }
+
+
+/* destination for you start */
+
+
+
+        @media(max-width: 500px)
+        {
+            .destinationsection{grid-template-rows: 1fr;}
+        }
+
+
+        @media(max-width: 500px)
+        {
+            .destinationsection .ff{width: 100%;}
+            /* .ff .countryname{width:50%;} */
+        }
+
+
+        @media(max-width: 500px)
+        {
+            .hrt{grid-template-columns: 1fr;}
+        }
+
+
+        /* latest travel news start */
+
+
+        @media(max-width: 500px)
+        {
+            .ltn{grid-template-rows: 1fr;}
+        
+        }
+
+        @media(max-width: 500px)
+        {
+            .ltn .latestdown{grid-template-columns: 1fr;}
+        
+        }
+
+
+        /* our partner start */
+
+
+        @media(max-width: 500px)
+        {
+            .oursection{grid-template-rows: 1fr;}
+        
+        } 
+
+        @media(max-width: 500px)
+        {
+            .oursection .partnerlog{grid-template-columns: 1fr 1fr;}
+        
+        }
+
+
+        /* emailsection start */
+
+        @media(max-width: 500px)
+        {
+            .emailsection{grid-template-columns: 1fr;}
+        }
+
+        @media(max-width: 500px)
+        {
+            .emailsection{grid-template-rows: 1fr;}
+        } 
+
+
+
+/* footer start */
+
+
+@media(max-width: 500px)
+{
+    .footer{grid-template-columns: 1fr;}
+}
+
+
+/* copright start */
+
+
+@media(max-width: 500px)
+{
+    .copyright_area{display: block;}
+}
+
